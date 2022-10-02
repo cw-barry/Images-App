@@ -35,27 +35,6 @@ const data = [
     },
   },
   {
-    photographer: 'Mario Alvarado',
-    src: {
-      large:
-        'https://images.pexels.com/photos/12169821/pexels-photo-12169821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-    },
-  },
-  {
-    photographer: 'Mario Alvarado',
-    src: {
-      large:
-        'https://images.pexels.com/photos/12169955/pexels-photo-12169955.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-    },
-  },
-  {
-    photographer: 'ahmet öktem',
-    src: {
-      large:
-        'https://images.pexels.com/photos/12175850/pexels-photo-12175850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-    },
-  },
-  {
     photographer: 'Nina  Hill',
     src: {
       large:
@@ -242,13 +221,6 @@ const data = [
     src: {
       large:
         'https://images.pexels.com/photos/12128380/pexels-photo-12128380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-    },
-  },
-  {
-    photographer: 'Leah Kelley',
-    src: {
-      large:
-        'https://images.pexels.com/photos/12128381/pexels-photo-12128381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
     },
   },
   {
