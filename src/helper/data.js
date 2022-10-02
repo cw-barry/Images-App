@@ -220,7 +220,7 @@ const data = [
     photographer: 'Leah Kelley',
     src: {
       large:
-        'https://images.pexels.com/photos/12128380/pexels-photo-12128380.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+        'https://images.pexels.com/photos/12128381/pexels-photo-12128381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
     },
   },
   {
