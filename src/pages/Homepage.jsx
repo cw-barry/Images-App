@@ -1,6 +1,6 @@
 import React from 'react';
 import Picture from '../components/Picture';
-import data from '../data';
+import data from '../helper/data';
 
 const Homepage = () => {
   console.log(data);
